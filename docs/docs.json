@@ -1,0 +1,11 @@
+{
+    "files": [
+        [
+            "ADS1015",
+            "ads1015.py"
+        ]
+    ],
+    "title": "ADS1015",
+    "version": "1.0.0",
+    "copyright":"Zerynth Team"
+}
